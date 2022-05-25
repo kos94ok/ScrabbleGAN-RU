@@ -1,0 +1,2 @@
+# ScrabbleGAN-RU
+Russian ScrabbleGAN
